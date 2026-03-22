@@ -86,7 +86,7 @@ export default function Footer() {
             <Linkedin size={18} className="opacity-50 group-hover:opacity-100" />
             LinkedIn
           </a>
-          <a href="https://uday-cv.tiiny.site/" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 text-sm uppercase tracking-[0.2em] hover:text-accent transition-colors group">
+          <a href="https://uday-kumar-boya-cv.tiiny.site" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 text-sm uppercase tracking-[0.2em] hover:text-accent transition-colors group">
             <FileText size={18} className="opacity-50 group-hover:opacity-100" />
             Resume
           </a>
